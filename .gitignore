@@ -1,0 +1,7 @@
+db.sqlite3
+geckodriver.log
+functional_tests.py~
+__pycache__
+*.pyc
+*~
+\#*
